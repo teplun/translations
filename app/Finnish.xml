@@ -14,19 +14,19 @@
         <mnuActionJumpToRegistry>&amp;Rekisterimerkintä</mnuActionJumpToRegistry>
         <mnuActionJumpToProgramFolder>&amp;Asennuskansio</mnuActionJumpToProgramFolder>
         <mnuActionJumpToWebSite>&amp;Ohjelman web-sivu</mnuActionJumpToWebSite>
-        <mnuActionOpenWindowsStore>Open in Microsoft Store</mnuActionOpenWindowsStore>
+        <mnuActionOpenWindowsStore>Avaa Microsoft Storessa</mnuActionOpenWindowsStore>
         <mnuActionBrowseLocation>Hae sijainti...</mnuActionBrowseLocation>
         <mnuActionBrowseSource>Hae lähde...</mnuActionBrowseSource>
         <mnuActionGoogleFor>Googlaa</mnuActionGoogleFor>
         <mnuView>&amp;Näytä</mnuView>
-        <mnuViewDesktopApps>Desktop Apps</mnuViewDesktopApps>
-        <mnuViewWinStoreApps>Microsoft Store Apps</mnuViewWinStoreApps>
+        <mnuViewDesktopApps>Työpöytäsovellukset</mnuViewDesktopApps>
+        <mnuViewWinStoreApps>Microsoft Store -sovellukset</mnuViewWinStoreApps>
         <mnuViewRefresh>&amp;Päivitä</mnuViewRefresh>
         <mnuViewListColumnsReset>Resetoi sarakkeet</mnuViewListColumnsReset>
-        <mnuViewColorScheme>Color Scheme</mnuViewColorScheme>
-        <mnuViewColorSchemeAuto>Match Windows light/dark mode</mnuViewColorSchemeAuto>
-        <mnuViewColorSchemeLight>Light mode (default)</mnuViewColorSchemeLight>
-        <mnuViewColorSchemeDark>Dark mode</mnuViewColorSchemeDark>
+        <mnuViewColorScheme>Värimalli</mnuViewColorScheme>
+        <mnuViewColorSchemeAuto>Yhdistä Windowsin vaalea/tumma tila</mnuViewColorSchemeAuto>
+        <mnuViewColorSchemeLight>Vaalea tila (default)</mnuViewColorSchemeLight>
+        <mnuViewColorSchemeDark>Tumma tila</mnuViewColorSchemeDark>
         <mnuViewLanguage>Käyttöliittymän kieli</mnuViewLanguage>
         <mnuHelp>&amp;Ohje</mnuHelp>
         <mnuHelpAbout>&amp;Tietoja...</mnuHelpAbout>
@@ -37,8 +37,8 @@
         <columnSize>Koko</columnSize>
         <columnInstallationDate>Asennus pvm</columnInstallationDate>
         <staticLoading>Ladataan, odota...</staticLoading>
-        <staticNoItemsMatchingFilterTip>No matching items, press ESC to reset</staticNoItemsMatchingFilterTip>
-        <staticNoProgramsInCategory>Seems like no Microsoft Store apps installed</staticNoProgramsInCategory>
+        <staticNoItemsMatchingFilterTip>Ei vastaavia kohteita, paina ESC nollataksesi</staticNoItemsMatchingFilterTip>
+        <staticNoProgramsInCategory>Näyttää siltä, ​​että Microsoft Store -sovelluksia ei ole asennettu</staticNoProgramsInCategory>
         <mark32bitItem>(32-bit)</mark32bitItem>
     </ListCtrl>
     <ExplorerBar>
@@ -46,7 +46,7 @@
     </ExplorerBar>
     <UninstallWizard>
         <statusScanning>Haetaan jääneitä tiedostoja, kansioita ja rekisterimerkintöjä...</statusScanning>
-        <statusLeftOverTracesFound>Some leftover traces found!</statusLeftOverTracesFound>
+        <statusLeftOverTracesFound>Joitakin jäänteitä löytyi!</statusLeftOverTracesFound>
         <statusNothingFound>Jäänteitä ei löytynyt.</statusNothingFound>
         <statusAllTracesRemoved>Kaikki jäänteet poistettu</statusAllTracesRemoved>
         <statusDeletingProgramTraces>Poistetaan ohjelman jälkiä...</statusDeletingProgramTraces>
@@ -91,7 +91,7 @@
         <btnYes>Kyllä</btnYes>
         <btnNo>Ei</btnNo>
         <btnClose>Sulje</btnClose>
-        <statusTotalInfo>%d ohjelmista %s kokonaismäärä</statusTotalInfo>
+        <statusTotalInfo>%d ohjelmaa %s kokonaismäärä</statusTotalInfo>
         <statusUnknown>tuntematon</statusUnknown>
         <WindowsUpdatesText>Windows päivitykset</WindowsUpdatesText>
     </Misc>
